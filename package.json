@@ -18,17 +18,17 @@
     "node": ">=22.13.0"
   },
   "dependencies": {
-    "@mastra/core": "elated-armadillo-be37a1",
-    "@mastra/evals": "elated-armadillo-be37a1",
-    "@mastra/libsql": "elated-armadillo-be37a1",
-    "@mastra/loggers": "elated-armadillo-be37a1",
-    "@mastra/memory": "elated-armadillo-be37a1",
-    "@mastra/observability": "elated-armadillo-be37a1",
+    "@mastra/core": "elated-armadillo-be37a1-2",
+    "@mastra/evals": "elated-armadillo-be37a1-2",
+    "@mastra/libsql": "elated-armadillo-be37a1-2",
+    "@mastra/loggers": "elated-armadillo-be37a1-2",
+    "@mastra/memory": "elated-armadillo-be37a1-2",
+    "@mastra/observability": "elated-armadillo-be37a1-2",
     "zod": "^4.2.1"
   },
   "devDependencies": {
     "@types/node": "^25.0.3",
-    "mastra": "elated-armadillo-be37a1",
+    "mastra": "elated-armadillo-be37a1-2",
     "typescript": "^5.9.3"
   }
 }
