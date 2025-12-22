@@ -9,23 +9,23 @@ importers:
   .:
     dependencies:
       '@mastra/core':
-        specifier: elated-armadillo-be37a1-2
-        version: 0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
+        specifier: 0.0.0-bundle-studio-cloud-20251222034739
+        version: 0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
       '@mastra/evals':
-        specifier: elated-armadillo-be37a1-2
-        version: 0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(ai@5.0.115(zod@4.2.1))(zod@4.2.1)
+        specifier: 0.0.0-bundle-studio-cloud-20251222034739
+        version: 0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(ai@5.0.115(zod@4.2.1))(zod@4.2.1)
       '@mastra/libsql':
-        specifier: elated-armadillo-be37a1-2
-        version: 0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))
+        specifier: 0.0.0-bundle-studio-cloud-20251222034739
+        version: 0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))
       '@mastra/loggers':
-        specifier: elated-armadillo-be37a1-2
-        version: 0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))
+        specifier: 0.0.0-bundle-studio-cloud-20251222034739
+        version: 0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))
       '@mastra/memory':
-        specifier: elated-armadillo-be37a1-2
-        version: 0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(zod@4.2.1)
+        specifier: 0.0.0-bundle-studio-cloud-20251222034739
+        version: 0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(zod@4.2.1)
       '@mastra/observability':
-        specifier: elated-armadillo-be37a1-2
-        version: 0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))
+        specifier: 0.0.0-bundle-studio-cloud-20251222034739
+        version: 0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))
       zod:
         specifier: ^4.2.1
         version: 4.2.1
@@ -34,8 +34,8 @@ importers:
         specifier: ^25.0.3
         version: 25.0.3
       mastra:
-        specifier: elated-armadillo-be37a1-2
-        version: 0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(typescript@5.9.3)(zod@4.2.1)
+        specifier: 0.0.0-bundle-studio-cloud-20251222034739
+        version: 0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(typescript@5.9.3)(zod@4.2.1)
       typescript:
         specifier: ^5.9.3
         version: 5.9.3
@@ -496,63 +496,63 @@ packages:
     resolution: {integrity: sha512-qC72D4+CDdjGqJvkFMMEAtancHUQ7/d/tAiHf64z8MopFDmcrtbcJuerDtFceuAfQJ2pDSfCKCtbqoGBNnwg0w==}
     engines: {node: '>=8'}
 
-  '@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629':
-    resolution: {integrity: sha512-iFnOlmeaVxxHiBrzshKMgd34ck1BdqRUaZ7LwE6eN2UOV2YboWv7N+azvKnixQxqWMWPyeqxOxJkFWOxLE36NQ==}
+  '@mastra/core@0.0.0-bundle-studio-cloud-20251222034739':
+    resolution: {integrity: sha512-D4LshKQ7qgK7o8c91S8pYy7ude3bgNRn84arlMFgGm8+j6DvExtxoOYyv9BrGzsZE+/fgiPCyYiAnWyPF9HC/Q==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
       zod: ^3.25.0 || ^4.0.0
 
-  '@mastra/deployer@0.0.0-elated-armadillo-be37a1-2-20251219213629':
-    resolution: {integrity: sha512-8vEZe3SfRAQEeGHvcIkmYQlPvy/yv2zKnbKV1EqkccABGoUPCb987McbNpH3KGTXzCvDtlsg2nemc8dFfEs46A==}
+  '@mastra/deployer@0.0.0-bundle-studio-cloud-20251222034739':
+    resolution: {integrity: sha512-Zq1c+48H/YLXDzs45KTlrTYILkYGyD3KtoVbrcWCeGfNSAaVrA+68aUO3bKVh1H1mmbqIMWrqkrMsYK9Xc7baw==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739
       zod: ^3.25.0 || ^4.0.0
 
-  '@mastra/evals@0.0.0-elated-armadillo-be37a1-2-20251219213629':
-    resolution: {integrity: sha512-mfZZuZ6MXtF0FnG/P+uFkhMHceA++qBnSVoarRyUEOi5A75GX10djXXMItKtt9HCcpLjZVrsobHwK3P4+Pc17Q==}
+  '@mastra/evals@0.0.0-bundle-studio-cloud-20251222034739':
+    resolution: {integrity: sha512-tTLfLYaVxoUYWPnqcDnr8QBos9dYA5DjtJndtkABGB0hNXCtljB7CDoOzSzG5IONq30sREWP8zy4tha/lql4IA==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739
       ai: ^4.0.0 || ^5.0.0
       zod: ^3.25.0 || ^4.0.0
 
-  '@mastra/libsql@0.0.0-elated-armadillo-be37a1-2-20251219213629':
-    resolution: {integrity: sha512-P9//sTyPLCQcNhcmgoF9PtkU885ooirC941xCb8Jl2MIZwjdCSZGmry663HqfxwkDbCjHPqLiQ7FqRQn8Hh7Lw==}
+  '@mastra/libsql@0.0.0-bundle-studio-cloud-20251222034739':
+    resolution: {integrity: sha512-iI/6fvQPLFv2o3vwHHtWDnFxvjD20+LiuxW249ALjIl2Hv9Knuu5uwJYepFahXbLJWNsNZTBRipTRnvKHGL0vA==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739
 
-  '@mastra/loggers@0.0.0-elated-armadillo-be37a1-2-20251219213629':
-    resolution: {integrity: sha512-9OfomchUBP/DQ2Uamn/Gcc3vb+ArOiPZR9CTzqqb2RNiwO0hTQUlwsHbD8CXLSXA1G6sfFxN57CffGLii2/nPA==}
+  '@mastra/loggers@0.0.0-bundle-studio-cloud-20251222034739':
+    resolution: {integrity: sha512-ODT02an5gc331NgRxvUHARfOhRfuJSSsUb69h87lA+5XKncm+dAGQ6oS/6VjYm3S1+hgP/4qULYn0U4LtBShsA==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739
 
-  '@mastra/memory@0.0.0-elated-armadillo-be37a1-2-20251219213629':
-    resolution: {integrity: sha512-Mhy6C9EmdwkykbNmYzaXGuT6bPDzPuDopZrMdUWllq4fVL6ZNIkaUXTyTaZjSqOP6n2F7wHavdSJ2pHbUYPEQg==}
+  '@mastra/memory@0.0.0-bundle-studio-cloud-20251222034739':
+    resolution: {integrity: sha512-CL2op3IzAlVlqsHQimNCohpb/lGKC20tgZca7W6D1WResP5ThmjKHTCwZBLp8DqLVwMA1hERyQRuy8bCv0PWEw==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739
       zod: ^3.25.0 || ^4.0.0
 
-  '@mastra/observability@0.0.0-elated-armadillo-be37a1-2-20251219213629':
-    resolution: {integrity: sha512-4+cOhVm5xogxzhpFPPTNR47rqiGtyS4wki7TSeU3ih3PDYIdSF9rX1ShKW9G+APFkNiuPH97kolRnYp+l+bfvw==}
+  '@mastra/observability@0.0.0-bundle-studio-cloud-20251222034739':
+    resolution: {integrity: sha512-UuFzpkRLgDCNUDIwVOH3OnV1rFNh0Y93b6kyTMo66h2oac+O5FY+4WI797UHh5G5jbTZWiPXLOLZXGjHreCIzg==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739
 
-  '@mastra/schema-compat@0.0.0-elated-armadillo-be37a1-2-20251219213629':
-    resolution: {integrity: sha512-QnBCcG01gddzni+6T6gxlek6G5uS6Y1sjVxCaEcOWs8DKQ8oBqsBDH2jvvpSZPolnRRSRlhvOz0kIZwFOyDE9w==}
+  '@mastra/schema-compat@0.0.0-bundle-studio-cloud-20251222034739':
+    resolution: {integrity: sha512-iABSHvxU+22IqSbl24lu/oVghGDb5USkIRJTCDbwWgoGFQbjZ11puK4+BOUYYvNF4Exmj94mneBZ33i0Zz3X1A==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
       zod: ^3.25.0 || ^4.0.0
 
-  '@mastra/server@0.0.0-elated-armadillo-be37a1-2-20251219213629':
-    resolution: {integrity: sha512-XuUQR+1m0XEBN/aeDa0mhthDXdIRnnQhalVt1Olp559xFFBvMWSz777OhEKftPiNUS23E8ODOJseTPzbZQsmBQ==}
+  '@mastra/server@0.0.0-bundle-studio-cloud-20251222034739':
+    resolution: {integrity: sha512-7P/si5qT9oi02Z29PCk7r+DvVAg9P3BU2DPlMyOmHjaXmmiBKt38EcZJFhz4qwmUcM36R3mZrKwSpXFcn3yWsA==}
     engines: {node: '>=22.13.0'}
     peerDependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739
       zod: ^3.25.0 || ^4.0.0
 
   '@modelcontextprotocol/sdk@1.25.1':
@@ -1606,12 +1606,12 @@ packages:
   magic-string@0.30.21:
     resolution: {integrity: sha512-vd2F4YUyEXKGcLHoq+TEyCjxueSeHnFxyyjNp80yg0XV4vUhnDer/lvvlqM/arB5bXQN5K2/3oinyCRyx8T2CQ==}
 
-  mastra@0.0.0-elated-armadillo-be37a1-2-20251219213629:
-    resolution: {integrity: sha512-heVfDaWq+SR4v3ZT0rc20qm7OsRKfyUiuVUVydAvET5sxNS2o4Xq+6NUpqcWmTosDRFGmtuLbMDUNPOSmBYkRA==}
+  mastra@0.0.0-bundle-studio-cloud-20251222034739:
+    resolution: {integrity: sha512-RXSlNUEvfz/bv4qhWc7XE56kfczNvsnEoOymwvx2fcPYMtGxE7eE4pBsJl2OhYEdGbchHxJGGA/fRBlBT/TfZA==}
     engines: {node: '>=22.13.0'}
     hasBin: true
     peerDependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739
       zod: ^3.25.0 || ^4.0.0
 
   math-intrinsics@1.1.0:
@@ -2709,7 +2709,7 @@ snapshots:
     dependencies:
       '@lukeed/csprng': 1.1.0
 
-  '@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)':
+  '@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)':
     dependencies:
       '@a2a-js/sdk': 0.2.5
       '@ai-sdk/provider-utils-v5': '@ai-sdk/provider-utils@3.0.12(zod@4.2.1)'
@@ -2719,7 +2719,7 @@ snapshots:
       '@ai-sdk/ui-utils-v5': '@ai-sdk/ui-utils@1.2.11(zod@4.2.1)'
       '@isaacs/ttlcache': 1.4.1
       '@lukeed/uuid': 2.0.1
-      '@mastra/schema-compat': 0.0.0-elated-armadillo-be37a1-2-20251219213629(zod@4.2.1)
+      '@mastra/schema-compat': 0.0.0-bundle-studio-cloud-20251222034739(zod@4.2.1)
       '@modelcontextprotocol/sdk': 1.25.1(hono@4.11.1)(zod@4.2.1)
       '@sindresorhus/slugify': 2.2.1
       dotenv: 16.6.1
@@ -2745,12 +2745,12 @@ snapshots:
       - openapi-types
       - supports-color
 
-  '@mastra/deployer@0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(typescript@5.9.3)(zod@4.2.1)':
+  '@mastra/deployer@0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(typescript@5.9.3)(zod@4.2.1)':
     dependencies:
       '@babel/core': 7.28.5
       '@babel/preset-typescript': 7.28.5(@babel/core@7.28.5)
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
-      '@mastra/server': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(zod@4.2.1)
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
+      '@mastra/server': 0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(zod@4.2.1)
       '@optimize-lodash/rollup-plugin': 5.1.0(rollup@4.50.2)
       '@rollup/plugin-alias': 6.0.0(rollup@4.50.2)
       '@rollup/plugin-commonjs': 29.0.0(rollup@4.50.2)
@@ -2777,9 +2777,9 @@ snapshots:
       - supports-color
       - typescript
 
-  '@mastra/evals@0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(ai@5.0.115(zod@4.2.1))(zod@4.2.1)':
+  '@mastra/evals@0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(ai@5.0.115(zod@4.2.1))(zod@4.2.1)':
     dependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
       ai: 5.0.115(zod@4.2.1)
       compromise: 14.14.5
       keyword-extractor: 0.0.28
@@ -2787,24 +2787,24 @@ snapshots:
       string-similarity: 4.0.4
       zod: 4.2.1
 
-  '@mastra/libsql@0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))':
+  '@mastra/libsql@0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))':
     dependencies:
       '@libsql/client': 0.15.15
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
     transitivePeerDependencies:
       - bufferutil
       - utf-8-validate
 
-  '@mastra/loggers@0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))':
+  '@mastra/loggers@0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))':
     dependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
       pino: 10.1.0
       pino-pretty: 13.1.3
 
-  '@mastra/memory@0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(zod@4.2.1)':
+  '@mastra/memory@0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(zod@4.2.1)':
     dependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
-      '@mastra/schema-compat': 0.0.0-elated-armadillo-be37a1-2-20251219213629(zod@4.2.1)
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
+      '@mastra/schema-compat': 0.0.0-bundle-studio-cloud-20251222034739(zod@4.2.1)
       async-mutex: 0.5.0
       js-tiktoken: 1.0.21
       json-schema: 0.4.0
@@ -2812,11 +2812,11 @@ snapshots:
       xxhash-wasm: 1.1.0
       zod: 4.2.1
 
-  '@mastra/observability@0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))':
+  '@mastra/observability@0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))':
     dependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
 
-  '@mastra/schema-compat@0.0.0-elated-armadillo-be37a1-2-20251219213629(zod@4.2.1)':
+  '@mastra/schema-compat@0.0.0-bundle-studio-cloud-20251222034739(zod@4.2.1)':
     dependencies:
       json-schema-to-zod: 2.7.0
       zod: 4.2.1
@@ -2824,9 +2824,9 @@ snapshots:
       zod-from-json-schema-v3: zod-from-json-schema@0.0.5
       zod-to-json-schema: 3.25.0(zod@4.2.1)
 
-  '@mastra/server@0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(zod@4.2.1)':
+  '@mastra/server@0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(zod@4.2.1)':
     dependencies:
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
       hono: 4.11.1
       zod: 4.2.1
 
@@ -3829,13 +3829,13 @@ snapshots:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.5
 
-  mastra@0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(typescript@5.9.3)(zod@4.2.1):
+  mastra@0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(typescript@5.9.3)(zod@4.2.1):
     dependencies:
       '@clack/prompts': 0.11.0
       '@expo/devcert': 1.2.1
-      '@mastra/core': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
-      '@mastra/deployer': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(typescript@5.9.3)(zod@4.2.1)
-      '@mastra/loggers': 0.0.0-elated-armadillo-be37a1-2-20251219213629(@mastra/core@0.0.0-elated-armadillo-be37a1-2-20251219213629(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))
+      '@mastra/core': 0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1)
+      '@mastra/deployer': 0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))(typescript@5.9.3)(zod@4.2.1)
+      '@mastra/loggers': 0.0.0-bundle-studio-cloud-20251222034739(@mastra/core@0.0.0-bundle-studio-cloud-20251222034739(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-community/standard-openapi@0.2.9(@standard-community/standard-json@0.3.5(@standard-schema/spec@1.1.0)(@types/json-schema@7.0.15)(quansync@0.2.11)(zod-to-json-schema@3.25.0(zod@4.2.1))(zod@4.2.1))(@standard-schema/spec@1.1.0)(openapi-types@12.1.3)(zod@4.2.1))(@types/json-schema@7.0.15)(openapi-types@12.1.3)(zod@4.2.1))
       commander: 14.0.2
       dotenv: 17.2.3
       execa: 9.6.1
