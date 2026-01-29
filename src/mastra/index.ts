@@ -6,7 +6,7 @@ import { Observability } from '@mastra/observability';
 import { weatherWorkflow } from './workflows/weather-workflow';
 import { weatherAgent } from './agents/weather-agent';
 import { toolCallAppropriatenessScorer, completenessScorer, translationScorer } from './scorers/weather-scorer';
-
+console.log('hello')
 export const mastra = new Mastra({
   workflows: { weatherWorkflow },
   agents: { weatherAgent },
